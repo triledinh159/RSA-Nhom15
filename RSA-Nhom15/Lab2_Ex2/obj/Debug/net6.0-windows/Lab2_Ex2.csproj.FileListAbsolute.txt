@@ -1,0 +1,58 @@
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\bin\Debug\net6.0-windows\Lab2_Ex2.exe
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\bin\Debug\net6.0-windows\Lab2_Ex2.deps.json
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\bin\Debug\net6.0-windows\Lab2_Ex2.runtimeconfig.json
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\bin\Debug\net6.0-windows\Lab2_Ex2.dll
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\bin\Debug\net6.0-windows\Lab2_Ex2.pdb
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.RandomKeyNumeric.resources
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.RSAPublicKey.resources
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.csproj.GenerateResource.cache
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.AssemblyInfoInputs.cache
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.AssemblyInfo.cs
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.dll
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\refint\Lab2_Ex2.dll
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.pdb
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.genruntimeconfig.cache
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\ref\Lab2_Ex2.dll
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.EnterKeyNumeric.resources
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.EnterKeyString.resources
+C:\Users\Tran Thanh Tu\source\repos\Lab2_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.RandomKeyString.resources
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\bin\Debug\net6.0-windows\Lab2_Ex2.exe
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\bin\Debug\net6.0-windows\Lab2_Ex2.deps.json
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\bin\Debug\net6.0-windows\Lab2_Ex2.runtimeconfig.json
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\bin\Debug\net6.0-windows\Lab2_Ex2.dll
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\bin\Debug\net6.0-windows\Lab2_Ex2.pdb
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.csproj.AssemblyReference.cache
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.RandomKeyNumeric.resources
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.RandomKeyString.resources
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.RSAPublicKey.resources
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.csproj.GenerateResource.cache
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.AssemblyInfoInputs.cache
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.AssemblyInfo.cs
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.csproj.CoreCompileInputs.cache
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.dll
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\refint\Lab2_Ex2.dll
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.pdb
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.genruntimeconfig.cache
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Lab2_Ex2\obj\Debug\net6.0-windows\ref\Lab2_Ex2.dll
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\bin\Debug\net6.0-windows\Lab2_Ex2.exe
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\bin\Debug\net6.0-windows\Lab2_Ex2.deps.json
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\bin\Debug\net6.0-windows\Lab2_Ex2.runtimeconfig.json
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\bin\Debug\net6.0-windows\Lab2_Ex2.dll
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\bin\Debug\net6.0-windows\Lab2_Ex2.pdb
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.csproj.AssemblyReference.cache
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.RandomKeyNumeric.resources
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.RandomKeyString.resources
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.RSAPublicKey.resources
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.csproj.GenerateResource.cache
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.AssemblyInfoInputs.cache
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.AssemblyInfo.cs
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.csproj.CoreCompileInputs.cache
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.dll
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\obj\Debug\net6.0-windows\refint\Lab2_Ex2.dll
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.pdb
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\obj\Debug\net6.0-windows\Lab2_Ex2.genruntimeconfig.cache
+D:\NT101\lab2\bai2\lab2_NT101_Ex2\Bai2_Lab2_NT101\Lab2_Ex2\obj\Debug\net6.0-windows\ref\Lab2_Ex2.dll
